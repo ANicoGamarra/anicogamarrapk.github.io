@@ -96,7 +96,7 @@ aside {
                     color: $theme-primary;
                 }
             }
-            &.active {
+           /*  &.active {
                 > a,
                 > a:focus {
                     color: $theme-primary !important;
@@ -105,7 +105,7 @@ aside {
                         background-color: transparent;
                     }
                 }
-            }
+            } */
         }
     }
     @media (min-width: 768px) {
